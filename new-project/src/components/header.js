@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 function header() {
   return (
     <div>
-        <header>
+        <header className="theheader">
       <nav className="navbar">
 <div className="nav-logo">
     <p>Logi<span>Hub</span></p>
