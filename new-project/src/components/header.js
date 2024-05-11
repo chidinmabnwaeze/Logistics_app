@@ -1,6 +1,7 @@
 import react from "react";
 import ReactDOM from "react-dom";
 
+
 function header() {
   return (
     <div>
@@ -36,8 +37,11 @@ function header() {
           </li>
         </ul>
 
-        <button className="login">Login</button>
+<div className="signupButtons">
+<button className="login">Login</button>
         <button className="register">Register</button>
+</div>
+        
         
       </nav>
       </header>
