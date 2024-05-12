@@ -22,7 +22,8 @@ function main (){
                 <img className="img3" src="" alt="" />`
            </section>
 
-           <section className="section3">
+<section className="section3">
+           <section className="section3b">
 <h1>We cover Everything Logistics</h1>
 <div className="logistics">
     <div className="card">
@@ -37,8 +38,6 @@ function main (){
         </div>
         <hr></hr>
     </div>
-
-    
 
     <div className="card">
         <img src="images" alt="" />
@@ -76,6 +75,10 @@ function main (){
         </div>
     </div>
 </div>
+           </section>
+           <div className="butt">
+            <button>Request delivery Now</button>
+           </div>
            </section>
         </div>
     )
