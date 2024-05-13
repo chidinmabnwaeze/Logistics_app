@@ -54,9 +54,7 @@ font-weight: bold;
   align-items: center;
  
 }
-.signupButtons{
- 
-}
+
 
 .login{
 border: none;
@@ -141,3 +139,13 @@ width: 200px;
   border-radius: 20px;
   padding: 10px 15px;
 }
+.card2{
+  display: flex;
+  flex-direction: column;
+  width: 200px; 
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+ 
+}
+

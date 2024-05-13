@@ -1,7 +1,8 @@
 import react from "react"
 
 function footer (){
-    <>
+   return (
+   <>
     <div>
         <div className="footer-logo">
         <p>Logi<span>Hub</span></p>
@@ -14,6 +15,7 @@ function footer (){
         </div>
      </div>
     </>
+   )
 }
 
 export default footer;

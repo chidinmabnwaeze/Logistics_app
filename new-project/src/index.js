@@ -4,7 +4,8 @@ import './index.css';
 import 'boxicons';
 import Main from './components/main';
 import Header from './components/header';
-import Footer from './components/footer';
+// import Footer from './components/footer';
+import Card from './components/card2';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,7 +13,8 @@ root.render(
 
     <Header/>
     <Main/>
-    <Footer/>
+    <Card/>
+    {/* <Footer/> */}
   </React.StrictMode>
 );
 
