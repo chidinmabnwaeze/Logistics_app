@@ -4,7 +4,7 @@ function Card (props){
     return(
         <div>
 {/* </Card2 
-img = .img> */}
+img = .images/> */}
 
 
 
